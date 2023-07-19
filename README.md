@@ -2,6 +2,8 @@
 <h3 align="center">Hello and welcome!My name is Mofiyinfoluwa Oloyede,A dedicated software developer from Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phyeen&label=Profile%20views&color=0e75b6&style=flat" alt="phyeen" /> </p>
+
+
 - I have always been intrigued by the endless possibilities that come with programming, and this curiosity has driven me to become a devoted developer.
 
 - One of the things I enjoy most about being a developer is the opportunity to continually learn and grow. The tech world is ever-evolving, and there's always something new to learn. Whether it's mastering a new programming language, exploring the latest tech trends, or understanding a new algorithm, I'm always eager to expand my knowledge. 
