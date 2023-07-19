@@ -3,10 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phyeen&label=Profile%20views&color=0e75b6&style=flat" alt="phyeen" /> </p>
 -I have always been intrigued by the endless possibilities that come with programming, and this curiosity has driven me to become a devoted developer.
+
 -One of the things I enjoy most about being a developer is the opportunity to continually learn and grow. The tech world is ever-evolving, and there's always something new to learn. Whether it's mastering a new programming language, exploring the latest tech trends, or understanding a new algorithm, I'm always eager to expand my knowledge. 
+
 - 🌱 I’m currently learning **python and react**
+  
 - 📫 How to reach me **mofiyinfoluwaoloyede5@gmail.com**
+  
 - Looking ahead, my goal is to continue developing innovative solutions that can make a difference. I'm particularly interested in projects that focus on javascript including its frameworks and libraries. I believe that technology has the power to transform lives and societies, and I'm excited to be part of that change.
+  
 - In my free time, **I enjoy watching movies, listening to music and going on outings. I also recently picked up an interest in writing.**
 
 <h3 align="left">Connect with me:</h3>
